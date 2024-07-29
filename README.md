@@ -11,3 +11,11 @@ This project aims to predict customer churn for a bank by analyzing a dataset of
 # Data Source
 
 - 📁 Dataset Updated July 2023: This Dashboard was built using [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data).
+
+# Author
+
+This Model Building has been designed and done by **Omar Mac Pherson**. 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/OmarMacPherson)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/omaralan/)  
+
+For any inquiries or further discussions on this project, please feel free to connect via [LinkedIn](www.linkedin.com/in/omaralan). or send an [E-mail](omar.macpherson@outlook.com).

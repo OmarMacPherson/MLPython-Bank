@@ -8,4 +8,6 @@ This project aims to predict customer churn for a bank by analyzing a dataset of
 - CSV File: Customer_bank_records.csv (Kaggle.com)
 - README File
 
-Link Dataset: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data
+# Data Source
+
+- 📁 Dataset Updated Dec 2023: This Dashboard was built using [Kaggle]((https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data)).

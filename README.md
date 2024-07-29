@@ -6,5 +6,6 @@ This project aims to predict customer churn for a bank by analyzing a dataset of
 
 - Python File: ML_Decision_Tree_Churn_Prediction.ipynb
 - CSV File: Customer_bank_records.csv (Kaggle.com)
+- README File
 
 Link Dataset: https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data

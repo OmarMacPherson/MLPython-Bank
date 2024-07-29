@@ -12,7 +12,7 @@ This project aims to predict customer churn for a bank by analyzing a dataset of
 
 # Data Source
 
-- 📁 Dataset Updated July 2023: This Dashboard was built using [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data).
+- 📁 Dataset Updated July 2023: This Project was built using [Kaggle](https://www.kaggle.com/datasets/radheshyamkollipara/bank-customer-churn/data).
 
 # Author
 
